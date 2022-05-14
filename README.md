@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Joe Gray.
-- 👀 I’m interested in data analytics and information security.
-- 🌱 I’m currently completing my Google Data Analytics Certification.
+- 👀 I’m interested in front-end web development.
+- 🌱 I’m currently following along with The Odin Project.
 - 💞️ I’m looking to collaborate on anything I can get my hands on and learn to understand.
 - 📫 You can reach me at my business email - joegray1266@hotmail.com
 
